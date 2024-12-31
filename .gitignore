@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__/
+.pytest_cache/
+input_audio/
+output_audio/
